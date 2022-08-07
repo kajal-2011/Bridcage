@@ -161,8 +161,7 @@ body {
   }
   
   .head button:hover {
-    background: transparent;
-    border: 3px solid #dfa383;
+    opacity: 0.7;
   }
   
   .head button:hover a {
@@ -489,8 +488,7 @@ body {
 }
 
 .star2 button:hover{
-    background: transparent;
-    border: 2px solid turquoise;
+   opacity: 0.8;
 }
 
 .middle-area3{
@@ -631,7 +629,6 @@ body {
 
 .btn button:hover{
     background:#e6986f ;
-    border: 2px solid black;
 }
 
 .content{
@@ -698,7 +695,6 @@ body {
 
 .port button:hover{
     background: #cb9c8c;
-    border: 2px solid #0e6b57;
 }
 
 .login{
